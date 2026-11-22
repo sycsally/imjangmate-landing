@@ -1,6 +1,6 @@
 # 임장메이트 랜딩페이지
 
-재테크·경매부터 신혼집·첫 자취까지, 집 보러 다니는 사람을 위한 AI 임장 기록 앱 **임장메이트**의 사전 신청 랜딩페이지입니다. 성과 대시보드는 별도 저장소 [imjangmate-admin](https://github.com/sycsally/imjangmate-admin)에 있습니다.
+경매·재테크 임장을 위한 AI 임장 기록 앱 **임장메이트**의 사전 신청 랜딩페이지입니다. 성과 대시보드는 별도 저장소 [imjangmate-admin](https://github.com/sycsally/imjangmate-admin)에 있습니다.
 
 | 파일 | 역할 |
 |---|---|

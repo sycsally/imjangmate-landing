@@ -87,6 +87,7 @@ button, input, select, textarea { font: inherit; color: inherit; }
 .site-header.scrolled { border-bottom-color: var(--line); }
 .nav { display: flex; align-items: center; justify-content: space-between; height: 68px; }
 .logo { display: flex; align-items: center; gap: 10px; text-decoration: none; font-weight: 800; font-size: 20px; color: var(--ink); letter-spacing: -.02em; }
+.logo-img { height: 34px; width: auto; display: block; }
 .logo-mark {
   width: 32px; height: 32px; border-radius: 10px; background: var(--primary);
   display: grid; place-items: center; color: #fff;

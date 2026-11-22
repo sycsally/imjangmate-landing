@@ -117,7 +117,7 @@ button, input, select, textarea { font: inherit; color: inherit; }
 }
 .note-box small { display: block; color: var(--primary); font-weight: 700; font-size: 13px; margin-bottom: 6px; }
 .nb1 { left: 32px; top: 36px; }
-.nb2 { right: 150px; bottom: 0; }
+.nb2 { right: 150px; bottom: -24px; }
 .p-thumb.ext, .p-photo.ext { background: url("images/hero-building.webp") center / cover no-repeat, linear-gradient(170deg, #b8cde9, #7f9cc6 60%, #8fae7d); }
 .p-photo.int { background: url("images/hero-building.webp") 88% 28% / 320% auto no-repeat, linear-gradient(170deg, #ece6da, #c9bfae 60%, #a89f8f); }
 .hero h1 {
